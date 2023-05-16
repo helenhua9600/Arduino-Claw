@@ -25,10 +25,11 @@ We first made a [Risk register](https://drive.google.com/file/d/1B13j_zogONO7DWG
 Then made several basic cardboard prototypes screened out used several ideas that didn't meet the specifications and needs of stakeholders 
 <p align="center"> <img src="https://github.com/helenhua9600/Arduino-Claw/assets/66861579/c4a870a5-1d5e-45ed-9423-dfa214ff5890" width="500"> </p>
 
-We then combined several c-sketch ideas together and used a WDM (weighted decision matrix) to score the remaining ideas
+We then combined several c-sketch ideas together and used a WDM (weighted decision matrix) to score the remaining 2 ideas
 <p align="center"> <img src="https://github.com/helenhua9600/Arduino-Claw/assets/66861579/80ec37eb-6e00-4648-aab3-6ce018ac2532" width="500"> </p>
 
 <b> Experiment: Prototype Item Grabbing Test</b>
+
 After screening and scoring prototypes, we were left with 2 final claw designs. We did one final test on the claws to optimize their designs to grab various sized and weighted objects.
 
 <img src="https://github.com/helenhua9600/Arduino-Claw/assets/66861579/af4ac0cf-ce7f-45b9-907f-35ba18d7893b" width="300" height="300"/>  <img src="https://github.com/helenhua9600/Arduino-Claw/assets/66861579/5d44a044-2bd0-406d-bf9a-1d1c05667910" width="300" height="300"/>  
