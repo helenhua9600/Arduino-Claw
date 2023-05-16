@@ -14,10 +14,8 @@ As a group of 6, we designed, constructed, and programmed a fully autonomous Cla
 # C-sketches
 We first brainstormed ideas through several rounds of C-sketches. C sketches are when each member sketches a design concept, then passes it along to another member to modify silently. The C-sketch process ends once the sketch returns to the original designer.
 
-<img src="https://cdn.discordapp.com/attachments/334811811796746240/1108066670175592488/image.png" width="475"> 
-<img src="https://cdn.discordapp.com/attachments/334811811796746240/1108066704912814130/image.png" width="475">
-
-<img src="https://cdn.discordapp.com/attachments/334811811796746240/1108066747522752522/image.png" width="475"> </p>
+<img src="https://cdn.discordapp.com/attachments/334811811796746240/1108066670175592488/image.png" width="385"> <img src="https://cdn.discordapp.com/attachments/334811811796746240/1108066704912814130/image.png" width="425">
+<p align="center"><img src="https://cdn.discordapp.com/attachments/334811811796746240/1108066747522752522/image.png" width="400"> </p>
 
 # Screening and scoring
 We first made a [Risk register](https://drive.google.com/file/d/1B13j_zogONO7DWGVL-Loy0cqt1PtNvaB/view?usp=share_link), then brainstormed ways to reduce the risk
